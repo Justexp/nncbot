@@ -12,7 +12,7 @@ var options = {
     },
     identity: {
         username: "nncbot_",
-        password: "oauth:p9cqrtbsm3mrask2iim815dmc46jyn"
+        password: "oauth:key"
     },
     channels: ["hadean_"]
 };

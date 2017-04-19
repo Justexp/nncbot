@@ -14,7 +14,7 @@ var options = {
         username: "nncbot_",
         password: "oauth:key"
     },
-    channels: ["hadean_"]
+    channels: ["channelname"]
 };
 
 var client = new tmi.client(options);

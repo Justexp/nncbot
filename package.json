@@ -1,0 +1,14 @@
+{
+  "name": "nncbot",
+  "version": "1.0.0",
+  "description": "A simple twitch bot by Hadean_",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hadean",
+  "license": "ISC",
+  "dependencies": {
+    "tmi.js": "^1.2.0"
+  }
+}
